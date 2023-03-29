@@ -16,7 +16,7 @@ public class Main {
 	public static void main(String[] args) throws SQLException {
 		//textMode();
 //		MainJFrame.createAndShowGUI();
-//		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
+//		github token :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
 		List<String> list= new ArrayList<>();
 		list.add("aaa");
 		list.add("bbb");
